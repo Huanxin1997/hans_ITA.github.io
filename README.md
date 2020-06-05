@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Hans GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Huanxin1997/hans_ITA.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
